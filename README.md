@@ -51,13 +51,14 @@ operator given that it is a single char one like '+', '&' etc.
 
 The sample test file which is used to test code is 'test_input.txt'.
 
-List of files:
+Code files:
 * Main.java
 * Stack.java
 * Queue.java
 * LinkedList.java
 * Node.java
 
+Testing:
 * test_input.txt :	example test cases
 * out.txt 	 :	output for 'test_input.txt'
 
